@@ -1,5 +1,3 @@
-https://TVChe.github.io/rsschool-cv/cv
-
 ![Inverse_ava_final.gif](https://drive.google.com/file/d/1Jt95wySJli9D7-z3UBSAtC74vkdP3OR8/view?usp=share_link)
 
 # Tatyana Chernobuk
@@ -7,28 +5,30 @@ https://TVChe.github.io/rsschool-cv/cv
 
 #### Saratov, Russia
 
-#### Сontact me:\
+#### Сontact me:
+
 Mobile: +7 917 317 3514\
 Email: tvchernobuk@gmail.com\
-[Telegram](https://t.me/TatyanaChernobuk)\
-[LinkedIn](https://www.linkedin.com/in/tatyanachernobuk)\
+[Telegram](https://t.me/TatyanaChernobuk)
+[LinkedIn](https://www.linkedin.com/in/tatyanachernobuk)
 
-Hi, team!\
-My name is Tatyana. I am a multidisciplinary designer.\
-2006 - 2011 — graphic designer.\
-2012 - 2017 — product designer.\
-2018 - present — web designer, UX/UI designer.\
-I design and draw websites, mobile and web interfaces, prepare materials for transfer to development.\
-I conduct research of the target audience, analyze and apply the results in my work.\
-An example can be seen [here](https://immediate-scarecrow-92f.notion.site/Questionnaires-0a61d5bc1e6a40b68a491639ab333287).\
-I am constantly learning new things and improving my professional skills.\
+Hi, team!
+My name is Tatyana. I am a multidisciplinary designer.
+2006 - 2011 — graphic designer.
+2012 - 2017 — product designer.
+2018 - present — web designer, UX/UI designer.
+I design and draw websites, mobile and web interfaces, prepare materials for transfer to development.
+I conduct research of the target audience, analyze and apply the results in my work.
+An example can be seen [here](https://immediate-scarecrow-92f.notion.site/Questionnaires-0a61d5bc1e6a40b68a491639ab333287).
+I am constantly learning new things and improving my professional skills.
 At the moment I want to change my profession and become a front-end developer.\
-[My design projects](https://www.behance.net/tvchernobuk)\
-[Download CV in PDF](https://drive.google.com/file/d/1gWHJjbiCgtkBLa0INsjRkn1gVjb8Y841/view?usp=share_link)\
+
+[My design projects](https://www.behance.net/tvchernobuk)
+[Download CV in PDF](https://drive.google.com/file/d/1gWHJjbiCgtkBLa0INsjRkn1gVjb8Y841/view?usp=share_link)
 
 ## work experience\
 ### [Aurora, Russian SEO Company](https://www.seo-russia.com/)\
-UX/UI Engineer\
+UX/UI Engineer
 *March 2019 - present. Saratov, Russia*\
 
 - prototyping and development of sites and individual pages;\
@@ -43,7 +43,7 @@ Carrying out qualitative research of the target audience.\
 Communication with the team in the general chat and control of tasks in Bitrix.\
 
 ### October studio\
-Web designer\
+Web designer
 *September 2018 - March 2019. Saratov, Russia*\
 
 - website design, interface design.\
