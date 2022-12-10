@@ -1,4 +1,6 @@
 https://TVChe.github.io/rsschool-cv/cv
+![its_-me](https://drive.google.com/file/d/1jDDOyqAww_g1rCCb5ZIQYYbsfkpqkUsg/view?usp=share_link)\
+
 # Tatyana Chernobuk
 # ###javascript frontend developer\
 
@@ -20,4 +22,4 @@ I conduct research of the target audience, analyze and apply the results in my w
 An example can be seen [here](https://immediate-scarecrow-92f.notion.site/Questionnaires-0a61d5bc1e6a40b68a491639ab333287).\
 I am constantly learning new things and improving my professional skills.\
 At the moment I want to change my profession and become a front-end developer.\
-[My design projects](https://www.behance.net/tvchernobuk)
+[My design projects](https://www.behance.net/tvchernobuk)\
