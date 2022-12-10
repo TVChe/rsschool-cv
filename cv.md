@@ -1,8 +1,9 @@
 https://TVChe.github.io/rsschool-cv/cv
+
 ![inverse-ava-2022_final_.jpg](https://drive.google.com/file/d/1Jt95wySJli9D7-z3UBSAtC74vkdP3OR8/view?usp=share_link)
 
 # Tatyana Chernobuk
-#### javascript frontend developer
+#### Javascript frontend developer
 
 #### Saratov, Russia
 
@@ -10,7 +11,7 @@ https://TVChe.github.io/rsschool-cv/cv
 Mobile: +7 917 317 3514\
 Email: tvchernobuk@gmail.com\
 [Telegram](https://t.me/TatyanaChernobuk)\
-[LinkedIn](https://www.linkedin.com/in/tatyanachernobuk)\
+[LinkedIn](https://www.linkedin.com/in/tatyanachernobuk)
 
 Hi, team!\
 My name is Tatyana. I am a multidisciplinary designer.\
@@ -26,7 +27,7 @@ At the moment I want to change my profession and become a front-end developer.\
 [My design projects](https://www.behance.net/tvchernobuk)\
 [Download CV in PDF](https://drive.google.com/file/d/1gWHJjbiCgtkBLa0INsjRkn1gVjb8Y841/view?usp=share_link)\
 
-## work experience
+## WORK EXPERIENCE
 ### [Aurora, Russian SEO Company](https://www.seo-russia.com/)\
 UX/UI Engineer
 *March 2019 - present. Saratov, Russia*\
@@ -37,7 +38,7 @@ UX/UI Engineer
 mobile applications and services of the company;
 - design of promotional materials for printing products and outdoor advertising;
 - development of logos and brand books;
-- creation of corporate identity elements.\
+- creation of corporate identity elements.
 
 Carrying out qualitative research of the target audience.
 Communication with the team in the general chat and control of tasks in Bitrix.
@@ -66,5 +67,5 @@ Working with companies like Hier, Tissot, UFS, Play Doh, Svitlogorye, etc.
 - development of layouts for outdoor advertising;
 - preparation of layouts for printing.
 
-### 
+### Mnogo Mebeli
 
