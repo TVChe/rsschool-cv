@@ -43,8 +43,6 @@ mobile applications and services of the company;
 Carrying out qualitative research of the target audience.
 Communication with the team in the general chat and control of tasks in Bitrix.
 
----
-
 ### October studio
 Web designer
 *September 2018 - March 2019. Saratov, Russia*
@@ -54,8 +52,6 @@ Web designer
 - creation of visual content (including animations) for social networks
 and targeted advertising.
 - Communication with the team in the general chat and control of tasks in Trello.
-
----
 
 ### Umbrella Agency
 Web designer, product designer
@@ -71,8 +67,6 @@ Working with companies like Hier, Tissot, UFS, Play Doh, Svitlogorye, etc.
 - development of layouts for outdoor advertising;
 - preparation of layouts for printing.
 
----
-
 ### Mnogo Mebeli
 Product designer
 *August 2012 - November 2017. Saratov, Russia*
@@ -81,11 +75,9 @@ Product designer
 - Design, layout, production of layouts, prepress;
 - Manufacturing quality control printing products: posters, booklets, leaflets, magnets, diplomas, certificates, etc.
 
----
-
 ### Languages
 Russian  (Native)\
 English  (Intermediate, b2)
 
----
-
+### Skills
+UX / UI    Prototyping    Web design    User interface design    Graphic design
