@@ -1,6 +1,8 @@
 https://TVChe.github.io/rsschool-cv/cv
 
-![image](inverse-ava-2022.png)
+![inverse-ava-2022][JS_FE_Stage_0_2022Q4]
+⋮
+[idJS_FE_Stage_0_2022Q4]: inverse-ava-2022.png "title"
 
 # Tatyana Chernobuk
 #### Javascript frontend developer
