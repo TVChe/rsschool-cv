@@ -1,6 +1,6 @@
 https://TVChe.github.io/rsschool-cv/cv
 
-![inverse-ava-2022.png](D:\10_Education\Edu_RSSchool\JS_FE_Stage_0_2022Q4\inverse-ava-2022.png)
+![image](inverse-ava-2022.png)
 
 # Tatyana Chernobuk
 #### Javascript frontend developer
@@ -22,7 +22,7 @@ I design and draw websites, mobile and web interfaces, prepare materials for tra
 I conduct research of the target audience, analyze and apply the results in my work.\
 An example can be seen [here](https://immediate-scarecrow-92f.notion.site/Questionnaires-0a61d5bc1e6a40b68a491639ab333287).\
 I am constantly learning new things and improving my professional skills.\
-At the moment I want to change my profession and become a front-end developer.\
+At the moment I want to change my profession and become a front-end developer.
 
 [My design projects](https://www.behance.net/tvchernobuk)\
 [Download CV in PDF](https://drive.google.com/file/d/1gWHJjbiCgtkBLa0INsjRkn1gVjb8Y841/view?usp=share_link)
