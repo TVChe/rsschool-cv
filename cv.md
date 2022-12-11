@@ -1,6 +1,6 @@
 https://TVChe.github.io/rsschool-cv/cv
 
-![inverse-ava-2022_final_.jpg](https://drive.google.com/file/d/1Jt95wySJli9D7-z3UBSAtC74vkdP3OR8/view?usp=share_link)
+![avatar](https://drive.google.com/file/d/1OArJR5FFeg-PxXEf3dYJQYk_35r0TMOq/view?usp=share_link)
 
 # Tatyana Chernobuk
 #### Javascript frontend developer
@@ -80,4 +80,8 @@ Russian  (Native)\
 English  (Intermediate, b2)
 
 ### Skills
-UX / UI    Prototyping    Web design    User interface design    Graphic design
+UX / UI, Prototyping, Web design, Graphic design
+
+### Tools
+Figma, Adobe Photoshop, Adobe Illustrator, After Effects\
+learning: HTML, CSS, JS
