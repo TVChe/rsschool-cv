@@ -2,7 +2,7 @@ https://TVChe.github.io/rsschool-cv/cv
 
 ![inverse-ava-2022_final_.jpg](https://drive.google.com/file/d/1Jt95wySJli9D7-z3UBSAtC74vkdP3OR8/view?usp=share_link)
 
-# Tatyana Chernobuk test
+# Tatyana Chernobuk
 #### Javascript frontend developer
 
 #### Saratov, Russia
@@ -25,7 +25,7 @@ I am constantly learning new things and improving my professional skills.\
 At the moment I want to change my profession and become a front-end developer.\
 
 [My design projects](https://www.behance.net/tvchernobuk)\
-[Download CV in PDF](https://drive.google.com/file/d/1gWHJjbiCgtkBLa0INsjRkn1gVjb8Y841/view?usp=share_link)\
+[Download CV in PDF](https://drive.google.com/file/d/1gWHJjbiCgtkBLa0INsjRkn1gVjb8Y841/view?usp=share_link)
 
 ## WORK EXPERIENCE
 ### [Aurora, Russian SEO Company](https://www.seo-russia.com/)\
@@ -43,6 +43,8 @@ mobile applications and services of the company;
 Carrying out qualitative research of the target audience.
 Communication with the team in the general chat and control of tasks in Bitrix.
 
+---
+
 ### October studio
 Web designer
 *September 2018 - March 2019. Saratov, Russia*
@@ -53,9 +55,11 @@ Web designer
 and targeted advertising.
 - Communication with the team in the general chat and control of tasks in Trello.
 
+---
+
 ### Umbrella Agency
 Web designer, product designer
-*April 2018 - September 2018 l Moscow, Russia*
+*April 2018 - September 2018. Moscow, Russia*
 
 - website design creation;
 - development of brand identity, rendering of teasers and icons;
@@ -67,5 +71,21 @@ Working with companies like Hier, Tissot, UFS, Play Doh, Svitlogorye, etc.
 - development of layouts for outdoor advertising;
 - preparation of layouts for printing.
 
+---
+
 ### Mnogo Mebeli
+Product designer
+*August 2012 - November 2017. Saratov, Russia*
+
+- Development of corporate identity elements, expansion and support of the design system;
+- Design, layout, production of layouts, prepress;
+- Manufacturing quality control printing products: posters, booklets, leaflets, magnets, diplomas, certificates, etc.
+
+---
+
+### Languages
+Russian  (Native)\
+English  (Intermediate, b2)
+
+---
 
