@@ -1,6 +1,6 @@
 https://TVChe.github.io/rsschool-cv/cv
 
-![avatar](https://drive.google.com/file/d/1OArJR5FFeg-PxXEf3dYJQYk_35r0TMOq/view?usp=share_link)
+![inverse-ava-2022.png](https://drive.google.com/file/d/1OArJR5FFeg-PxXEf3dYJQYk_35r0TMOq/view?usp=share_link)
 
 # Tatyana Chernobuk
 #### Javascript frontend developer
@@ -28,9 +28,9 @@ At the moment I want to change my profession and become a front-end developer.\
 [Download CV in PDF](https://drive.google.com/file/d/1gWHJjbiCgtkBLa0INsjRkn1gVjb8Y841/view?usp=share_link)
 
 ## WORK EXPERIENCE
-### [Aurora, Russian SEO Company](https://www.seo-russia.com/)\
+### [Aurora, Russian SEO Company](https://www.seo-russia.com/)
 UX/UI Engineer
-*March 2019 - present. Saratov, Russia*\
+*March 2019 - present. Saratov, Russia*
 
 - prototyping and development of sites and individual pages;
 - design of interfaces;
