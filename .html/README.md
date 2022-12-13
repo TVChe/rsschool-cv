@@ -1,1 +1,0 @@
-https://TVChe.github.io/rsschool-cv/
